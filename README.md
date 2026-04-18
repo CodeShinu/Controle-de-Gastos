@@ -25,8 +25,6 @@ bash
 python gastos.py
 Exemplo
 
-Copy code
-
 controle de gastos
 1 - adicionar
 2 - listar
