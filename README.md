@@ -12,7 +12,7 @@ Como usar
 
 bash
 
-git clone https://github.com/seu-usuario/controle-de-gastos.git
+git clone https://github.com/CodeShinu/controle-de-gastos.git
 2. Entre na pasta
 
 bash
